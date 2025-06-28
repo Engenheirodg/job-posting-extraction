@@ -1,0 +1,7 @@
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*parquet
+*.db
+pessoal/pandas_tmw/fork-pandas-2025-tmw/
